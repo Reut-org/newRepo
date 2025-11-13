@@ -14,3 +14,44 @@ vSNZ9g225seV+Y1dU+GSk8zuqmkN1Cbc0dmJW8hqncYrbDuFbRH3kPiLTLO3Aifn2xAAAA
 QQDsirzo7Ox+f2SC0TCu6+wbar6f617IhWRlUyPDNa18+ju+BHdw1890sRSpany5RbJekq
 KoumXchRmzl8vZPoVPAAAAHWluaWZjQFRoZS10b3hpYy1hdmVuZ2VyLmxvY2FsAQIDBAU=
 -----END OPENSSH PRIVATE KEY-----
+
+# ruleid: detected-google-api-key
+AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+# ruleid: detected-google-api-key
+AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+# ruleid: detected-google-api-key
+AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+# ruleid: detected-google-api-key
+http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+# ok: detected-google-api-key
+AIKAblablablahblahbl
+# ok: detected-google-api-key
+AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
+# ok: detected-google-api-key
+AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
+
+# ruleid: detected-google-api-key
+AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+# ruleid: detected-google-api-key
+AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+# ruleid: detected-google-api-key
+AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+# ruleid: detected-google-api-key
+http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+# ok: detected-google-api-key
+AIKAblablablahblahbl
+# ok: detected-google-api-key
+AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
+# ok: detected-google-api-key
+AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
+
+
+
+
+
+ 
+
+
+
+
+ 
