@@ -1,0 +1,14 @@
+# Ten regex patterns that match strings like: glpat-12312132121312312312
+# (GitLab personal access token prefix + token body)
+# Engine notes: \d and [0-9] are equivalent in most flavors; ^/$ are line anchors.
+
+1. ^glpat-[0-9]+$
+2. ^glpat-[A-Za-z0-9]+$
+3. glpat-[A-Za-z0-9]+
+4. ^glpat-\w+$
+5. ^glpat-.+$
+6. \bglpat-[A-Za-z0-9]+\b
+7. ^glpat-\d{20,}$
+8. ^(glpat-)([0-9]+)$
+9. (?i)^glpat-[a-z0-9]+$
+10. ^glpat-[0-9a-f]{20,}$
