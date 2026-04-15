@@ -1,0 +1,6 @@
+# Custom pattern (test): ^[reut]{14}$
+# Lines below are exactly 14 characters from the set r,e,u,t only.
+
+reutreutreutre
+rrrrrrrrrrrrrr
+tututututututu
