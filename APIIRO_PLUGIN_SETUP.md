@@ -83,17 +83,46 @@ feature check. On Windows it will point you to the manual download below.
 
 ---
 
-## Step 3 — Authenticate
+## Step 3 — Point at STAGING (required) and authenticate
+
+> ⚠️ **By default the CLI connects to production (`app.apiiro.com`). To use
+> STAGING you MUST set the staging API URL before logging in.** The staging URL
+> is `https://app-staging.apiiro.com`.
+
+Pick **one** of these two ways:
+
+**Option A — environment variable (recommended, persists across commands):**
+
+- PowerShell (current user, persistent):
+  ```powershell
+  [Environment]::SetEnvironmentVariable("APIIRO_API_URL", "https://app-staging.apiiro.com", "User")
+  ```
+  Then **close and reopen** the terminal/Claude Code so it takes effect.
+- Git Bash (current session only):
+  ```bash
+  export APIIRO_API_URL=https://app-staging.apiiro.com
+  ```
+
+Then:
 
 ```
 apiiro login
 ```
 
-This opens a browser — sign in with your Apiiro account. Then confirm:
+**Option B — per-login flag (no env var needed):**
+
+```
+apiiro login --api-url https://app-staging.apiiro.com
+```
+
+Either way, a browser opens — sign in with your Apiiro account. Then confirm:
 
 ```
 apiiro auth status
 ```
+
+Make sure the credentials path/URL reflects staging. If you ever need to switch
+environments, run `apiiro logout` first, change the URL, then `apiiro login` again.
 
 ---
 
@@ -139,7 +168,10 @@ the Apiiro plugin. Please walk me through, one step at a time, confirming each:
    /plugin install apiiro@apiiro
 2. Run /apiiro-setup to install the Apiiro CLI (Windows: apiiro-win.exe from
    https://github.com/apiiro/marketplace/releases, rename to apiiro.exe, add to PATH),
-   then apiiro login, then verify apiiro --version is >= 1.4.2.
+   then verify apiiro --version is >= 1.4.2.
+   IMPORTANT: I need STAGING, not production. Before logging in, set
+   APIIRO_API_URL=https://app-staging.apiiro.com (or use
+   apiiro login --api-url https://app-staging.apiiro.com), then run apiiro login.
 3. Check which Apiiro features are enabled for my environment.
 4. Then list the apiiro-* skills I can use.
 ```
