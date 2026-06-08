@@ -3,9 +3,9 @@ AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
 # ruleid: detected-google-api-key
 AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+AIzaSyA000000000_EXAMPLE_NOT_A_REAL_KEY
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=AIzaSyA000000000_EXAMPLE_NOT_A_REAL_KEY&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
