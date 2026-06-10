@@ -1,11 +1,11 @@
 # ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+AIzaSy0000000000000000000000000000001
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+AIzaSy0000000000000000000000000000002
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+AIzaSy0000000000000000000000000000003
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=AIzaSy0000000000000000000000000000003&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
@@ -13,13 +13,13 @@ AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
 # ok: detected-google-api-key
 AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
 # ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+AIzaSy0000000000000000000000000000001
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+AIzaSy0000000000000000000000000000002
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+AIzaSy0000000000000000000000000000003
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=AIzaSy0000000000000000000000000000003&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
@@ -27,13 +27,13 @@ AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
 # ok: detected-google-api-key
 AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
 # ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+AIzaSy0000000000000000000000000000001
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+AIzaSy0000000000000000000000000000002
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+AIzaSy0000000000000000000000000000003
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=AIzaSy0000000000000000000000000000003&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
@@ -41,13 +41,13 @@ AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
 # ok: detected-google-api-key
 AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
 # ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+AIzaSy0000000000000000000000000000001
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+AIzaSy0000000000000000000000000000002
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+AIzaSy0000000000000000000000000000003
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=AIzaSy0000000000000000000000000000003&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
@@ -55,13 +55,13 @@ AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
 # ok: detected-google-api-key
 AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
 # ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+AIzaSy0000000000000000000000000000001
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+AIzaSy0000000000000000000000000000002
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+AIzaSy0000000000000000000000000000003
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=AIzaSy0000000000000000000000000000003&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
