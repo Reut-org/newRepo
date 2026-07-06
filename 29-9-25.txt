@@ -1,70 +1,70 @@
 # ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+REDACTED_GOOGLE_API_KEY_1
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+REDACTED_GOOGLE_API_KEY_2
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+REDACTED_GOOGLE_API_KEY_3
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=REDACTED_GOOGLE_API_KEY_3&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_1==
 # ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_2=
 # ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+REDACTED_GOOGLE_API_KEY_1
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+REDACTED_GOOGLE_API_KEY_2
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+REDACTED_GOOGLE_API_KEY_3
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
-# ok: detected-google-api-key
-AIKAblablablahblahbl
-# ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
-# ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
-# ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
-# ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
-# ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
-# ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=REDACTED_GOOGLE_API_KEY_3&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_1==
 # ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_2=
 # ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+REDACTED_GOOGLE_API_KEY_1
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+REDACTED_GOOGLE_API_KEY_2
 # ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
+REDACTED_GOOGLE_API_KEY_3
 # ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
-# ok: detected-google-api-key
-AIKAblablablahblahbl
-# ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
-# ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
-# ruleid: detected-google-api-key
-AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
-# ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
-# ruleid: detected-google-api-key
-AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
-# ruleid: detected-google-api-key
-http://example.com?key=AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs&name=blah
+http://example.com?key=REDACTED_GOOGLE_API_KEY_3&name=blah
 # ok: detected-google-api-key
 AIKAblablablahblahbl
 # ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_1==
 # ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_2=
+# ruleid: detected-google-api-key
+REDACTED_GOOGLE_API_KEY_1
+# ruleid: detected-google-api-key
+REDACTED_GOOGLE_API_KEY_2
+# ruleid: detected-google-api-key
+REDACTED_GOOGLE_API_KEY_3
+# ruleid: detected-google-api-key
+http://example.com?key=REDACTED_GOOGLE_API_KEY_3&name=blah
+# ok: detected-google-api-key
+AIKAblablablahblahbl
+# ok: detected-google-api-key
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_1==
+# ok: detected-google-api-key
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_2=
+# ruleid: detected-google-api-key
+REDACTED_GOOGLE_API_KEY_1
+# ruleid: detected-google-api-key
+REDACTED_GOOGLE_API_KEY_2
+# ruleid: detected-google-api-key
+REDACTED_GOOGLE_API_KEY_3
+# ruleid: detected-google-api-key
+http://example.com?key=REDACTED_GOOGLE_API_KEY_3&name=blah
+# ok: detected-google-api-key
+AIKAblablablahblahbl
+# ok: detected-google-api-key
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_1==
+# ok: detected-google-api-key
+REDACTED_NOT_A_VALID_KEY_EXAMPLE_2=
